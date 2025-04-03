@@ -1,4 +1,4 @@
-# Pitsa_yetkazish_xizmati
+//Pitsa_yetkazish_xizmati
 #include <iostream> 
 #include <vector> 
 #include <string> 
